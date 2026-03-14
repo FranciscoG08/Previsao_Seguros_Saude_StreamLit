@@ -300,4 +300,4 @@ Este projeto demonstra a aplicação de técnicas de **Machine Learning para reg
 
 # 👤 Autor
 
-**Francisco Guedes1**
+**Francisco Guedes**
