@@ -1,4 +1,4 @@
-# 🏥 Previsão de Custos de Seguro de Saúde com Machine Learning
+# 🏥 Previsão de Custos de Seguro de Saúde com Machine Learning 
 
 Projeto de **Machine Learning** desenvolvido para prever o **custo de um seguro de saúde** com base em características demográficas e comportamentais dos indivíduos.
 
@@ -300,4 +300,4 @@ Este projeto demonstra a aplicação de técnicas de **Machine Learning para reg
 
 # 👤 Autor
 
-**Francisco Guedes**
+**Francisco Guedes1**
