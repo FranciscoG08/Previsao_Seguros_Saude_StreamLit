@@ -262,14 +262,45 @@ seguros-ml
 
 ---
 
-# Como Executar o Projeto
+# ▶️ Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
+1. Clonar o repositório
+
+```
 git clone https://github.com/FranciscoG08/Previsao_Seguros_Saude_StreamLit.git
-### 2️⃣ Instalar dependências
+```
+
+2. Entrar na pasta do projeto
+
+```
+cd Previsao_Seguros_Saude_StreamLit
+```
+
+3. Criar ambiente virtual
+
+```
+python -m venv env
+```
+
+4. Ativar ambiente virtual
+
+Windows:
+
+```
+env\Scripts\activate
+```
+
+5. Instalar dependências
+
+```
 pip install -r requirements.txt
-### 3️⃣ Executar aplicação Streamlit
+```
+
+6. Executar aplicação Streamlit
+
+```
 streamlit run seguros_saude_streamlit.py
+```
 
 ---
 
@@ -279,7 +310,6 @@ O modelo final foi guardado para utilização futura:
 
 ```python
 import joblib
-
 joblib.dump(modelo_otimo, "models/seguros_saude.pkl")
 ```
 
@@ -298,6 +328,6 @@ Este projeto demonstra a aplicação de técnicas de **Machine Learning para reg
 
 ---
 
-# 👤 Autor
+# 👨‍💻 Autor
 
 **Francisco Guedes**
